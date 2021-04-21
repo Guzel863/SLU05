@@ -1,0 +1,9 @@
+bread
+milk
+eggs
+olive oil
+apples
+wine
+chocolate
+avocado
+cheese

@@ -8,3 +8,7 @@ chocolate
 avocado
 cheese
 butter
+flour
+cream
+baking powder
+vanilla
